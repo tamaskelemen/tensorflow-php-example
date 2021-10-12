@@ -1,4 +1,4 @@
-# Example Tensforflow 2.6 API for PHP 7.4i
+# Example Tensforflow 2.6 API for PHP 7.4
 
 ### Install
 
